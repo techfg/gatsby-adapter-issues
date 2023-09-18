@@ -1,0 +1,67 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  X-EveryResource: Gets this header
+  X-TransformedHeader: This is transformed
+/component---src-pages-404-tsx-70daa1be2219423f7f5e.js
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/component---src-pages-app-tsx-f3db3491e78f7def5ae9.js
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/component---src-pages-index-tsx-38c0953b50340aa95cae.js
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/component---src-pages-retiredpage-tsx-be2d7a7f674cc173e4ad.js
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/component---src-pages-testpagenew-tsx-31b7db9d55bce8ea355c.js
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/webpack-runtime-1b5a430372f1404acffd.js
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/framework-5e8a38bf990470ba1888.js
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/app-d7b571df3a717b981470.js
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/sw.js
+  Cache-Control: no-cache
+  X-TransformedHeader: This is transformed
+/
+  X-PageName: Home
+  Link: </https://www.cdn.com/blog../../../public/static/logo-6dca591e3658782c0d3e8dfc96c41b6e.png>; rel=preload; as=image
+  X-TransformedHeader: This is transformed
+https://www.cdn.com/blog/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+https://www.cdn.com/blog/404/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+https://www.cdn.com/blog/404.html
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+https://www.cdn.com/blog/app/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+https://www.cdn.com/blog/retiredpage/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/test-page
+  X-PageName: Test-Page
+  X-TransformedHeader: This is transformed
+/testpage
+  X-PageName: TestPage
+  X-TransformedHeader: This is transformed
+https://www.cdn.com/blog/testpagenew/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed

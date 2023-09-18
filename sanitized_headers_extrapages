@@ -1,0 +1,365 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  X-EveryResource: Gets this header
+  X-TransformedHeader: This is transformed
+/component---src-pages-404-tsx-70daa1be2219423f7f5e.js
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/component---src-pages-app-tsx-f3db3491e78f7def5ae9.js
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/component---src-pages-index-tsx-38c0953b50340aa95cae.js
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/component---src-pages-retiredpage-tsx-be2d7a7f674cc173e4ad.js
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/component---src-pages-testpagenew-tsx-31b7db9d55bce8ea355c.js
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/webpack-runtime-54184daee17a8bef6605.js
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/framework-5e8a38bf990470ba1888.js
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/app-1a595b41368173a2bab9.js
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+  X-TransformedHeader: This is transformed
+/sw.js
+  Cache-Control: no-cache
+  X-TransformedHeader: This is transformed
+/
+  X-PageName: Home
+  Link: </../../../public/static/logo-6dca591e3658782c0d3e8dfc96c41b6e.png>; rel=preload; as=image
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/404/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/404.html
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/app/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/retiredpage/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/test-page
+  X-PageName: Test-Page
+  X-TransformedHeader: This is transformed
+/testpage
+  X-PageName: TestPage
+  X-TransformedHeader: This is transformed
+/testpagenew/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-1/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-2/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-3/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-4/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-5/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-6/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-7/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-8/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-9/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-10/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-11/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-12/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-13/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-14/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-15/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-16/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-17/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-18/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-19/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-20/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-21/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-22/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-23/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-24/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-25/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-26/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-27/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-28/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-29/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-30/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-31/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-32/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-33/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-34/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-35/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-36/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-37/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-38/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-39/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-40/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-41/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-42/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-43/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-44/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-45/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-46/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-47/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-48/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-49/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-50/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-51/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-52/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-53/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-54/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-55/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-56/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-57/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-58/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-59/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-60/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-61/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-62/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-63/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-64/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-65/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-66/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-67/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-68/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-69/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-70/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-71/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-72/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-73/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-74/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-75/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-76/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-77/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-78/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-79/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-80/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-81/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-82/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-83/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-84/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-85/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-86/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-87/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-88/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-89/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-90/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-91/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-92/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-93/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-94/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-95/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-96/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-97/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-98/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-99/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed
+/extra-page-100/
+  X-PageSpecificHeader: This is a page
+  X-TransformedHeader: This is transformed

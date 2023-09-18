@@ -1,0 +1,31 @@
+{
+  "name": "gatsby-typescript",
+  "private": true,
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby serve",
+    "build": "gatsby build",
+    "build:pathprefix": "ENABLE_PATH_PREFIX=true gatsby build --prefix-paths",
+    "build:assetprefix": "ENABLE_ASSET_PREFIX=true ENABLE_PATH_PREFIX=true gatsby build --prefix-paths",
+    "build:extrapages": "ENABLE_EXTRA_PAGES=true gatsby build",
+    "serve": "gatsby serve",
+    "serve:prefixpaths": "gatsby serve --prefix-paths",
+    "clean": "gatsby clean",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "gatsby": "^5.11.0",
+    "gatsby-plugin-netlify": "^5.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.3",
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.6",
+    "typescript": "^5.1.6"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
