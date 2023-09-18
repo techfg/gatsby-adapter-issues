@@ -1,13 +1,13 @@
 import type { GatsbyConfig } from "gatsby";
+import adapter from 'gatsby-adapter-netlify';
 
 const config: GatsbyConfig = {
-  // we are not building on NETLIFY so no adapters
-  // will be forced to be used.  If we were building
-  // on NETLIFY, process.env.NETLIFY would be true
-  // and the `gatsby-adapter-netlify` forced in to the build
-  // and `gatsby-plugin-netlify` force removed with no `stock` 
-  // way to opt-out of the adapter and keep the plugin resulting
-  // in different build output.
+  // necessary to explicitly load adapter since we're not building on NETLIFY
+  // where it would be used automatically along with gatsby-plugin-netlify 
+  // begin removed automatically both without any `stock` method of opting out
+  adapter: adapter({
+    excludeDatastoreFromEngineFunction: false,
+  }),
   pathPrefix: process.env.ENABLE_PATH_PREFIX === `true` ? `/blog` : undefined,
   assetPrefix: process.env.ENABLE_ASSET_PREFIX === `true` ? `https://www.cdn.com` : undefined,
   siteMetadata: {

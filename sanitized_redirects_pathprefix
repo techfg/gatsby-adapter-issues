@@ -1,12 +1,15 @@
 
-## Created with gatsby-plugin-netlify
+# gatsby-adapter-netlify start
 /blog/testpageold/  /blog/testpagenew/  302
 /blog/permanentpageold/  /blog/permanentpagenew/  301
-/blog/retiredpage/  /blog/  302!
-/blog/forcepageold/  /blog/forcepagenew/  302!
-/blog/conditionspageold/  /blog/conditionspagenew/  302  Language=en,fr  Country=us,ca
+/blog/retiredpage/  /blog/  302
+/blog/forcepageold/  /blog/forcepagenew/  302
+/blog/conditionspageold/  /blog/conditionspagenew/  302
 /blog/redirectinbrowserpageold/  /blog/redirectinbrowserpagenew/  302
 /blog/statuscodepageold/  /blog/statuscodepagenew/  303
 /blog/ignoreCasePageOld  /blog/ignorecAsepAgenEw/  302
-https://www.gatsbyjs.org  https://www.netlify.com  301!
-/app/*  /app/  200
+/https://www.gatsbyjs.org  https://www.netlify.com  301
+/app/*  /app/index.html  200
+/page-data/app/*  /page-data/app/page-data.json  200
+
+# gatsby-adapter-netlify end
