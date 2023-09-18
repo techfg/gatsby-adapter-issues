@@ -6,280 +6,329 @@
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /~partytown/debug/partytown-atomics.js
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /~partytown/debug/partytown-media.js
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /~partytown/debug/partytown-sandbox-sw.js
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /~partytown/debug/partytown-sw.js
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /~partytown/debug/partytown-ww-atomics.js
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /~partytown/debug/partytown-ww-sw.js
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /~partytown/debug/partytown.js
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /page-data/404.html/page-data.json
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /page-data/404/page-data.json
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /page-data/index/page-data.json
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /page-data/retiredpage/page-data.json
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /page-data/testpagenew/page-data.json
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /page-data/app/*
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /~partytown/partytown-atomics.js
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /~partytown/partytown-media.js
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /~partytown/partytown-sw.js
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /~partytown/partytown.js
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /page-data/app-data.json
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /static/logo-6dca591e3658782c0d3e8dfc96c41b6e.png/
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /app-c843bdf0e6663ec98280.js
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /app-c843bdf0e6663ec98280.js.LICENSE.txt
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /app-c843bdf0e6663ec98280.js.map
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /chunk-map.json
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /component---src-pages-404-tsx-70daa1be2219423f7f5e.js
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /component---src-pages-404-tsx-70daa1be2219423f7f5e.js.map
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /component---src-pages-app-tsx-f3db3491e78f7def5ae9.js
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /component---src-pages-app-tsx-f3db3491e78f7def5ae9.js.map
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /component---src-pages-index-tsx-38c0953b50340aa95cae.js
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /component---src-pages-index-tsx-38c0953b50340aa95cae.js.map
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /component---src-pages-retiredpage-tsx-be2d7a7f674cc173e4ad.js
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /component---src-pages-retiredpage-tsx-be2d7a7f674cc173e4ad.js.map
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /component---src-pages-testpagenew-tsx-31b7db9d55bce8ea355c.js
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /component---src-pages-testpagenew-tsx-31b7db9d55bce8ea355c.js.map
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /framework-5e8a38bf990470ba1888.js
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /framework-5e8a38bf990470ba1888.js.LICENSE.txt
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /framework-5e8a38bf990470ba1888.js.map
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /logo.png/
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /webpack-runtime-c41fe3b9106585da6a0d.js
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /webpack-runtime-c41fe3b9106585da6a0d.js.map
   cache-control: public, max-age=31536000, immutable
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /webpack.stats.json
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
+  X-PageName: Home
+  Link: </../../../public/static/logo.png>; rel=preload; as=image
 /404/
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /404.html
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /app/*
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /retiredpage/
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 /testpagenew/
   cache-control: public, max-age=0, must-revalidate
   x-xss-protection: 1; mode=block
   x-content-type-options: nosniff
   referrer-policy: same-origin
   x-frame-options: DENY
+  X-EveryResource: Gets this header
 
 # gatsby-adapter-netlify end

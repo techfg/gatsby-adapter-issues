@@ -8,6 +8,24 @@ const config: GatsbyConfig = {
   adapter: adapter({
     excludeDatastoreFromEngineFunction: false,
   }),
+  headers: [
+    {
+      source: `/*`,
+      headers: [{ key: `X-EveryResource`, value: `Gets this header`}]
+    },
+    {
+      source: `/`,
+      headers: [{ key: `X-PageName`, value: `Home`}, { key: `Link`, value: `</../../../public/static/logo.png>; rel=preload; as=image`}]
+    },
+    {
+      source: `/test-page`,
+      headers: [{ key: `X-PageName`, value: `Test-Page`}]
+    },
+    {
+      source: `/testpage`,
+      headers: [{ key: `X-PageName`, value: `TestPage`}]
+    }
+  ],
   pathPrefix: process.env.ENABLE_PATH_PREFIX === `true` ? `/blog` : undefined,
   assetPrefix: process.env.ENABLE_ASSET_PREFIX === `true` ? `https://www.cdn.com` : undefined,
   siteMetadata: {
